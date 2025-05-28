@@ -64,9 +64,8 @@ A live demo is best served on Streamlit Community Cloud or HuggingFace Spaces.
 📄 License
 MIT License - free to use, modify, and share.
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
+
 Netflix Movies and TV Shows Dataset
-
 Sentence-Transformers
-
 Streamlit
