@@ -2,7 +2,6 @@
 
 A semantic recommendation system built with **Streamlit** and **BERT embeddings** that helps users discover movies or shows on Netflix based on their mood, themes, or genres.
 
-![App Screenshot](asserts/bg.png)
 
 ---
 
