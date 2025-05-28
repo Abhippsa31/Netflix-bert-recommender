@@ -4,7 +4,7 @@ import base64
 from sentence_transformers import SentenceTransformer, util
 from googleapiclient.discovery import build
 
-YOUTUBE_API_KEY = "AIzaSyB14rW9L20OC6qfrsRBTju9yVV1KLaqu4A"  # Add your API key here
+YOUTUBE_API_KEY = ""  # Add your API key here
 
 # ---------- Background Image Setter ----------
 def set_background(image_path):
